@@ -1,2 +1,2 @@
 
-Um cadastro para programadores :)
+Cadastro de devs
