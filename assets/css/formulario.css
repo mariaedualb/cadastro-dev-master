@@ -7,14 +7,14 @@
 /* Elementos com o ID "titulo" */
 #titulo {
     font-family: sans-serif;
-    color: #8ebdb6;
+    color: #8a4cbd;
     margin-left: 5%;
 } 
 
 /* Elementos com o ID "subtitulo" */
 #subtitulo {
     font-family: sans-serif;
-    color: #8ebdb6;
+    color: #8a4cbd;
     margin-left: 8%;
 } 
 
@@ -46,7 +46,7 @@ body{
 input, select, textarea, button {
     font-family: sans-serif;
     font-size: 1em;
-    color: #8ebdb6;
+    color: #8a4cbd;
     border-radius: 5px;
 }
 
