@@ -1,4 +1,4 @@
 
-Atividade de cadastro proposta pelo PEX Coding.
+Atividade de cadastro do PEX Coding, versão #1 (source code proposto por eles).
 
-P.s: PEX signica Projeto de Extensão.
+P.s: PEX significa Projeto de Extensão.
